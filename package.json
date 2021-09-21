@@ -14,10 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.990.0",
+    "axios": "^0.21.4",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
     "fluent-ffmpeg": "^2.1.2",
     "multer": "^1.4.3",
     "request": "^2.88.2"
